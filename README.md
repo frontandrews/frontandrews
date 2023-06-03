@@ -2,7 +2,7 @@ Hi, I'm Andrews, a Senior Software Engineer with 7 years of experience, I'm base
 
 My primary expertise is front-end development, I've also worked with back-end development, working with technologies such as Node.js, GraphQL, Prismic, PostgreSQL, and Prisma. 
 
-On the front-end side, I've been working with React, NextJS, Typescript, Vue.js, GraphQL, and Storybook.
+On the front-end side, I've been working with React, NextJS, Typescript, Vue.js, GraphQL, GA, GTM, and Storybook.
 
 I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
 
