@@ -38,5 +38,5 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
   <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Most projects I've worked uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
+Most projects I've worked uses gitlab or bitbucket, so this numbers do not reflect what I have been doing ;(
 
