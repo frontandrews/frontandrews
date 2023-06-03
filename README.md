@@ -30,5 +30,9 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
 
 Most projects I've worked uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
 
+
+<div>
+<a href="https://github.com/frontandrews">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
+</div>
