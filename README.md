@@ -23,12 +23,6 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
 </div>
   
   ##
- 
-<div> 
-  <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-Most projects I've worked uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
 
 
 <div>
@@ -36,3 +30,11 @@ Most projects I've worked uses gitlab or bitbucket, so this numbers below do not
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
 <img height="200em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
 </div>
+
+ 
+<div> 
+  <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+Most projects I've worked uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
+
