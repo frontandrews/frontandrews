@@ -7,6 +7,8 @@ On the front-end side, I've been working with React, NextJS, Typescript, Vue.js,
 I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
 
   ##
+
+Most projects I've been working uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
   
 <div>
 <a href="https://github.com/frontandrews">
@@ -38,5 +40,4 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
   <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Most projects I've worked uses gitlab or bitbucket, so this numbers do not reflect what I have been doing ;(
 
