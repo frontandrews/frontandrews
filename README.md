@@ -1,3 +1,10 @@
+Hi, I'm Andrews, a Senior Software Engineer with 7 years of experience, I'm based in Rio de Janeiro, Brazil working remote for a International Company. In my previous roles, I've led teams in scrum projects and worked on mid and large-scale projects with thousands of users.
+
+My primary expertise is front-end development, I've also worked with back-end development, working with technologies such as Node.js, GraphQL, Prismic, PostgreSQL, and Prisma. 
+
+On the front-end side, I've been working with React, NextJS, Typescript, Vue.js, GraphQL, and Storybook.
+
+I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
