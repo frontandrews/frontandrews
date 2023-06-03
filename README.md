@@ -6,6 +6,12 @@ On the front-end side, I've been working with React, NextJS, Typescript, Vue.js,
 
 I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
 
+<div>
+<a href="https://github.com/frontandrews">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+<img height="200em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,14 +29,6 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
 </div>
   
   ##
-
-
-<div>
-<a href="https://github.com/frontandrews">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-<img height="200em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
-</div>
-
  
 <div> 
   <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
