@@ -7,13 +7,11 @@ On the front-end side, I've been working with React, NextJS, Typescript, Vue.js,
 I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
 
   ##
-  
 <div>
 <a href="https://github.com/frontandrews">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
 <img height="200em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
 </div>
-  
   ##
 
 <div style="display: inline_block"><br>
@@ -31,7 +29,6 @@ I have experience creating Design Systems, refactoring legacy projects, fixing b
  <img align="center" alt="next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
-  
   ##
  
 <div> 
