@@ -5,16 +5,6 @@ My primary expertise is front-end development, but I've also worked with back-en
 On the front-end side, I've been working with React, NextJS, Typescript, Vue.js, GraphQL, GA, GTM, and Storybook.
 
 I have experience creating Design Systems, refactoring legacy projects, fixing bugs, building new features, Creating A/B Tests, improving SEO, GTM, Analytics, performance improvements, creating GraphQL and Rest apis and the regular activities of a FullStack developer.
-
-  ##
-
-Most projects I've been working uses gitlab or bitbucket, so this numbers below do not reflect what I have been doing ;(
-  
-<div>
-<a href="https://github.com/frontandrews">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=frontandrews&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-<img height="200em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontandrews&layout-compact&langs_count=16&theme=dracula"/>
-</div>
   
   ##
 
