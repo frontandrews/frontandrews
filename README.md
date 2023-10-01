@@ -1,4 +1,4 @@
-Hi, I'm Andrews, a Senior Software Engineer with 7 years of experience, I'm based in Rio de Janeiro, Brazil, I'm working remote for a International Company. In my previous roles, I've led teams in scrum projects and worked on mid and large-scale projects with thousands of users.
+Hi, I'm Andrews, a Senior Software Engineer with 8 years of experience, I'm based in Rio de Janeiro, Brazil, I'm working remote for a International Company. In my previous roles, I've led teams in scrum projects and worked on mid and large-scale projects with thousands of users.
 
 My primary expertise is front-end development, but I've also worked with back-end development, working with technologies such as Node.js, GraphQL, Prismic, PostgreSQL, and Prisma. 
 
