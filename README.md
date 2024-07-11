@@ -1,12 +1,13 @@
 👋 Hello! I'm a Software Engineer with over 8+ years of industry experience
 
 🛠 Tech Stack
-Front-end: React, NextJS, Vue, TypeScript, Tailwind, Redux, Pinia, Shopify, RemixRun, Styled Components
-Back-end: Node, ExpressJS, NestJS, GraphQL, Lambda.
-Database: PostgreSQL, MySQL, MongoDB
-DevOps: Jenkins, Docker, CI/CD
-Testing & Quality: Jest, TDD, Storybook, Code Reviews
-Miscellaneous: PrismaORM, Google Analytics, Google Tag Manager
+
+- Front-end: React, NextJS, Vue, TypeScript, Tailwind, Redux, Pinia, Shopify, RemixRun, Styled Components
+- Back-end: Node, ExpressJS, NestJS, GraphQL, Lambda.
+- Database: PostgreSQL, MySQL, MongoDB
+- DevOps: Jenkins, Docker, CI/CD
+- Testing & Quality: Jest, TDD, Storybook, Code Reviews
+- Others: PrismaORM, Google Analytics, Google Tag Manager, Sanity
   
   ##
 
