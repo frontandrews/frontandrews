@@ -1,13 +1,27 @@
-👋 Hello! I'm a Software Engineer with over 8+ years of industry experience
+👋 Hello! I'm a Senior Software Engineer with over 8+ years of industry experience
 
 🛠 Tech Stack
 
-- Front-end: React, NextJS, Vue, TypeScript, Tailwind, Redux, Pinia, Shopify, RemixRun, Styled Components
-- Back-end: Node, ExpressJS, NestJS, GraphQL, Lambda.
-- Database: PostgreSQL, MySQL, MongoDB
-- DevOps: Jenkins, Docker, CI/CD
-- Testing & Quality: Jest, TDD, Storybook, Code Reviews
-- Others: PrismaORM, Google Analytics, Google Tag Manager, Sanity
+  - Front-end: React, NextJS, Remix-Run, Vue, TypeScript, Tailwind, Redux, Zustand, shadcn/ui, Shopify, Nuxt.
+  - Back-end: Node, ExpressJS, NestJS, GraphQL, WebSockets, Redis
+  - Database: MongoDB, PostgreSQL, MySQL
+  - DevOps: Jenkins, Docker, Github Actions
+  - Testing & Quality: Jest, Cypress, TDD, Storybook, Code Reviews
+ -  Other Tools: PrismaORM, Google Analytics, Google Tag Manager, Zod, Shopify, Sanity CMS, Mongoose
+
+🎯 Skills & Expertise
+  - Experience leading small teams
+  - Project Ownership
+  - Teaching junior developers
+  - Code Reviews
+  - Project Planning, Estimations, Creating epics and tickets
+  - Create CI/CD pipelines
+  - Refactoring legacy codebases
+  - Design Systems
+  - Knowledge Sharing
+  - Fluent in English
+
+I have worked on large-scale applications across diverse sectors including Finance, Communication, CRM, ERP, Real Estate, Credit, and Services.
   
   ##
 
