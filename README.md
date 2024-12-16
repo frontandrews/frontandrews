@@ -1,4 +1,4 @@
-👋 Hello! I'm a Senior Software Engineer with over 8+ years of industry experience
+👋 Hello! I'm a Senior Software Engineer with over 9 years of industry experience
 
 🛠 Tech Stack
 
