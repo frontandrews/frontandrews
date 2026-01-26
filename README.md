@@ -1,50 +1,47 @@
-👋 Hello! I'm a Senior Software Engineer with 9 years of industry experience
+👋 Senior Full-Stack Software Engineer building scalable, production-grade systems with end-to-end ownership
 
-🛠 Tech Stack
+I’m a Senior Full-Stack Software Engineer with 9+ years of experience building, scaling, and maintaining production-grade web platforms for companies across the US, Canada, and Europe.
 
-  - Front-end: React, NextJS, Remix-Run, Vue, TypeScript, Tailwind, Redux, Zustand, shadcn/ui, Shopify, Nuxt.
-  - Back-end: Node, ExpressJS, NestJS, GraphQL, WebSockets, Redis
-  - Database: MongoDB, PostgreSQL, MySQL
-  - DevOps: Jenkins, Docker, Github Actions
-  - Testing & Quality: Jest, Cypress, TDD, Storybook, Code Reviews
- -  Other Tools: PrismaORM, Google Analytics, Google Tag Manager, Zod, Shopify, Sanity CMS, Mongoose
+I specialize in owning systems end to end — from architecture and APIs to frontend delivery, infrastructure, and production reliability — working independently in remote-first environments.
 
-🎯 Skills & Expertise
-  - Experience leading small teams
-  - Project Ownership
-  - Teaching junior developers
-  - Code Reviews
-  - Project Planning, Estimations, Creating epics and tickets
-  - Create CI/CD pipelines
-  - Refactoring legacy codebases
-  - Design Systems
-  - Knowledge Sharing
-  - Fluent in English
+### What I’m known for
 
-I have worked on large-scale applications across diverse sectors including Finance, Communication, CRM, ERP, Real Estate, Credit, and Services.
-  
-  ##
+• End-to-end ownership of complex features and systems  
+• Designing scalable frontend and API architectures  
+• Refactoring and modernizing legacy codebases  
+• Building reliable CI/CD pipelines and production workflows  
+• Leading technical initiatives and mentoring engineers  
+• Strong product mindset and clear technical communication  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
- <img align="center" alt="tailwind" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
- <img align="center" alt="ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
- <img align="center" alt="next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
- <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:andrews.ribeiro.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### Tech Snapshot
 
+**Frontend**  
+React, Next.js, Remix, TypeScript, Tailwind, shadcn/ui, Design Systems, Performance Optimization, SEO
 
+**Backend & APIs**  
+Node.js, Express, NestJS, REST, GraphQL, WebSockets, Prisma
+
+**Data & Caching**  
+PostgreSQL, MySQL, MongoDB, Redis
+
+**Cloud & Delivery**  
+Docker, GitHub Actions, Jenkins
+
+**Quality**  
+Jest, Cypress, Storybook, Code Reviews
+
+### Domains & Scale
+
+I’ve worked on production systems across:
+• Finance & Credit  
+• E-commerce (Shopify)  
+• CRM / ERP platforms  
+• Communication & Marketing systems  
+• Real Estate & Service platforms  
+
+### Collaboration & Leadership
+
+• Experience leading small teams and technical initiatives  
+• Mentoring junior and mid-level engineers  
+• Project planning, estimations, and technical decision-making  
+• Fluent professional English communication  
