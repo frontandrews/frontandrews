@@ -33,6 +33,7 @@ Jest, Cypress, Storybook, Code Reviews
 ### Domains & Scale
 
 I’ve worked on production systems across:
+
 • Finance & Credit  
 • E-commerce (Shopify)  
 • CRM / ERP platforms  
