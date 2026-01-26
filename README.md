@@ -1,6 +1,6 @@
 👋 Senior Full-Stack Software Engineer building scalable, production-grade systems with end-to-end ownership
 
-I’m a Senior Full-Stack Software Engineer with 9+ years of experience building, scaling, and maintaining production-grade web platforms for companies across the US, Canada, and Europe.
+I’m a Senior Full-Stack Software Engineer with 10 years of experience building, scaling, and maintaining production-grade web platforms for companies across the US, Canada, and Europe.
 
 I specialize in owning systems end to end — from architecture and APIs to frontend delivery, infrastructure, and production reliability — working independently in remote-first environments.
 
