@@ -1,48 +1,52 @@
-👋 Senior Full-Stack Software Engineer building scalable, production-grade systems with end-to-end ownership
+👋 Senior Full-Stack Engineer focused on building scalable SaaS platforms and production systems
 
-I’m a Senior Full-Stack Software Engineer with 10 years of experience building, scaling, and maintaining production-grade web platforms for companies across the US, Canada, and Europe.
+I’m a Senior Full-Stack Engineer with 10+ years of experience building and maintaining real-world applications across fintech, e-commerce, and SaaS.
 
-I specialize in owning systems end to end — from architecture and APIs to frontend delivery, infrastructure, and production reliability — working independently in remote-first environments.
+I work across the full stack, with a strong focus on frontend architecture and product engineering — designing systems that are reliable, maintainable, and built to scale.
 
-### What I’m known for
+## What I do
 
-• End-to-end ownership of complex features and systems  
-• Designing scalable frontend and API architectures  
-• Refactoring and modernizing legacy codebases  
-• Building reliable CI/CD pipelines and production workflows  
-• Leading technical initiatives and mentoring engineers  
-• Strong product mindset and clear technical communication  
+• Build and own features end-to-end — from architecture to production  
+• Design frontend and API systems with long-term maintainability in mind  
+• Refactor and modernize legacy codebases  
+• Improve reliability through testing, validation, and better workflows  
+• Contribute to technical direction and mentor other engineers  
 
-### Tech Snapshot
+## Currently
+
+Building an AI-driven SaaS platform focused on:
+
+• Multi-tenant architecture  
+• Automated UI generation  
+• AI-assisted development workflows (CLI tools, agent-based systems)  
+• End-to-end product development  
+
+## Tech
 
 **Frontend**  
-React, Next.js, Remix, TypeScript, Tailwind, shadcn/ui, Design Systems, Performance Optimization, SEO
+React, Next.js, TypeScript, Tailwind, Design Systems
 
-**Backend & APIs**  
-Node.js, Express, NestJS, REST, GraphQL, WebSockets, Prisma
+**Backend**  
+Node.js, Express, REST, GraphQL, Prisma
 
-**Data & Caching**  
-PostgreSQL, MySQL, MongoDB, Redis
+**Data**  
+PostgreSQL, MongoDB, MySQL, Redis
 
-**Cloud & Delivery**  
-Docker, GitHub Actions, Jenkins
+**Tooling**  
+Docker, CI/CD, GitHub Actions, Playwright, Vitest
 
-**Quality**  
-Jest, Cypress, Storybook, Code Reviews
+## Experience
 
-### Domains & Scale
+Worked on production systems across:
 
-I’ve worked on production systems across:
-
-• Finance & Credit  
+• Fintech / Digital Banking  
 • E-commerce (Shopify)  
-• CRM / ERP platforms  
-• Communication & Marketing systems  
-• Real Estate & Service platforms  
+• SaaS Platforms  
+• Data & Analytics systems  
 
-### Collaboration & Leadership
+## How I work
 
-• Experience leading small teams and technical initiatives  
-• Mentoring junior and mid-level engineers  
-• Project planning, estimations, and technical decision-making  
-• Fluent professional English communication  
+• Strong ownership mindset  
+• Focus on clarity, simplicity, and maintainability  
+• Comfortable working independently in remote environments  
+• Clear and direct technical communication
